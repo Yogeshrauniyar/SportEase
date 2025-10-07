@@ -1,0 +1,26 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Build output
+bin/
+target/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# JUnit reports
+test-output/
+reports/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.lock
